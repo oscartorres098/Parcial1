@@ -16,7 +16,7 @@ def leer_matriz(v, t):
 			printf(v[i][j])
 	print("\n")
  
-def triangulo_superior(v, unsigned t):
+def triangulo_superior(v, t):
 	x = 0
 	for i in range (t):
 		for j in range (t):
@@ -28,5 +28,7 @@ def triangulo_superior(v, unsigned t):
 max = 5
 print ("Cuantos elementos va a tener la matriz?: (maximo 5)");
 t = input()
+meassureTime (v, t)
+
 
  
