@@ -1,0 +1,5 @@
+modo de uso
+Se ejecuta el codigo que arroja la respuesta y el tiempo de ejecucion
+Esos tiempos se guardan en un archivo de la forma 
+#iteracion 1 Tiempo
+Este se guarda como matriz.res y se ejecuta el gnuplot
